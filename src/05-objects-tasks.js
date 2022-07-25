@@ -138,6 +138,7 @@ const cssSelectorBuilder = {
   },
 
   pseudoClass(/* value */) {
+    //fix
     throw new Error('Not implemented');
   },
 
