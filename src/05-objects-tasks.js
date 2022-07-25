@@ -134,17 +134,17 @@ const cssSelectorBuilder = {
   },
 
   attr(/* value */) {
-    //fix
+    // fix
     throw new Error('Not implemented');
   },
 
   pseudoClass(/* value */) {
-    //fix
+    // fix
     throw new Error('Not implemented');
   },
 
   pseudoElement(/* value */) {
-    //fix
+    // fix
     throw new Error('Not implemented');
   },
 
