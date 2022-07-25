@@ -134,6 +134,7 @@ const cssSelectorBuilder = {
   },
 
   attr(/* value */) {
+    //fix
     throw new Error('Not implemented');
   },
 
