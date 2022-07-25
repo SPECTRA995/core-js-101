@@ -143,6 +143,7 @@ const cssSelectorBuilder = {
   },
 
   pseudoElement(/* value */) {
+    //fix
     throw new Error('Not implemented');
   },
 
